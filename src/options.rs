@@ -1,12 +1,10 @@
 extern crate json;
-use json::*;
+use json::{parse};
 
 use std::io;
 use std::io::prelude::*;
 use std::io::BufReader;
 use std::fs::File;
-
-
 
 pub struct DelService {
     pub name: String,

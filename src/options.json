@@ -1,0 +1,20 @@
+{
+    "services": [
+        {
+            "name": "smileys",
+            "url": "https://www.smileys.de/"
+        },
+        {
+            "name": "Pink Bambus",
+            "url": "https://www.lieferando.de/speisekarte/pink-bambus"
+        },
+        {
+            "name": "Schweinske",
+            "url": "https://www.lieferando.de/speisekarte/schweinske-hamburg-wandsbek"
+        },
+        {
+            "name": "BurgerMe",
+            "url": "https://www.burgerme.de/"
+        }
+    ]
+}
